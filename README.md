@@ -2,10 +2,11 @@
 
 🚀 Aspiring Cybersecurity Professional | Beginner in Networking & Ethical Hacking  
 
-## About Me
-- 🎓 Graduate, currently learning **CCNA** and exploring **Bug Bounty Hunting**  
-- 🛡️ Passionate about **Cybersecurity & Ethical Hacking**  
-- 🎯 Goal: To become a **Cybersecurity Expert & Commercial Pilot**  
+## 👨‍💻 About Me
+- 📍 From Kerala, India  
+- 🧑‍🎓 Completed graduation, currently learning **CCNA**  
+- 🔎 Exploring **Bug Bounty Hunting** on Bugcrowd  
+- 🎯 Goal: To build a strong career in **Cybersecurity** 
 
 ## Skills (Beginner Level)
 - Networking (CCNA basics)
