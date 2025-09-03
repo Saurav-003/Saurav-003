@@ -16,6 +16,13 @@
 - 🔍 Learning Bug Bounty via Bugcrowd
 - 🖥️ CTF Challenges & Writeups
 
+- ## 📜 Certifications
+
+- ✅ Certified Ethical Hacker (CEH v13)  
+- ✅ CCNA (in progress)  
+- ✅ ISC2 (in progress)  
+
+
 ## Connect with Me
 - 📧 sauravpriv.08@gmail.com
 - 💼 LinkedIn: linkedin.com/in/sauravsunil12
