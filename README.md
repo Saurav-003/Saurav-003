@@ -16,7 +16,7 @@
 - 🔍 Learning Bug Bounty via Bugcrowd
 - 🖥️ CTF Challenges & Writeups
 
-- ## 📜 Certifications
+## Certifications
 
 - ✅ Certified Ethical Hacker (CEH v13)  
 - ✅ CCNA (in progress)  
