@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Saurav 👋
 
-<!--
-**Saurav-003/Saurav-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cybersecurity Professional | Beginner in Networking & Ethical Hacking  
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Graduate, currently learning **CCNA** and exploring **Bug Bounty Hunting**  
+- 🛡️ Passionate about **Cybersecurity & Ethical Hacking**  
+- 🎯 Goal: To become a **Cybersecurity Expert & Commercial Pilot**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills (Beginner Level)
+- Networking (CCNA basics)
+- Linux & Windows Security
+- Tools: Burp Suite, Wireshark, Nmap
+
+## Current Projects
+- 🔍 Learning Bug Bounty via Bugcrowd
+- 🖥️ CTF Challenges & Writeups
+
+## Connect with Me
+- 📧 sauravpriv.08@gmail.com
+- 💼 LinkedIn: linkedin.com/in/sauravsunil12
